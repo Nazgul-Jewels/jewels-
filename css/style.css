@@ -1,0 +1,55 @@
+
+
+h2,.topBar-menu a{
+    font-family: 'EB Garamond', serif !important;
+}
+.topBar-menu a::before{
+    background-color: mediumpurple !important;
+}
+.important-px{
+    height: 300px !important;
+}
+.important-px-2{
+    margin-top:-80px !important;
+    height: 100px !important;
+    width:150px !important ;
+}
+.carousel-arrows-usual .icon{
+    top:300% !important;
+}
+.topBar-logo{
+    width: 250px !important;
+}
+.icon{
+    fill:mediumpurple !important;
+}
+
+.btn-usual.btn-outline{
+    border: 0.125rem solid mediumpurple !important;
+    color: mediumpurple !important;
+}
+
+.btn-usual.btn-outline:hover{
+    background-color: mediumpurple !important;
+    color: #fff !important;
+}
+.btn-usual.btn-green{
+    background-color: mediumpurple !important;
+}
+
+.advantages-list{
+    background-image: url(../pictures/5.png) !important;
+    /*height: 0px !important;*/
+}
+
+#SVGID_1_{
+    width: 10px !important;
+    height: 10px !important;
+}
+
+.footer-social a{
+    border:none !important;
+}
+.contacts-map {
+    border: 0.125rem solid mediumpurple !important;
+}
