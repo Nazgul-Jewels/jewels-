@@ -17,6 +17,9 @@ h2,.topBar-menu a{
 .carousel-arrows-usual .icon{
     top:300% !important;
 }
+.centered{
+    top:20% !important;
+}
 .topBar-logo{
     width: 250px !important;
 }

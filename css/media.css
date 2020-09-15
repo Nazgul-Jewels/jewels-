@@ -10,18 +10,33 @@
     .product-content p {
         font-size: 1.2rem !important;
     }
-    .product-content{
-        min-height: 600px !important;
+
+    .product-content {
+        min-height: 500px !important;
     }
-    .important-px-2{
-        display:none !important;
+
+    .important-px-2 {
+        display: none !important;
         height: 50px !important;
-        width:100px !important ;
+        width: 100px !important;
     }
+
+    .advantages-list {
+        background-image: none !important;
+        /*height: 0px !important;*/
+    }
+
 }
 
-@media (max-width: 575.98px) {
-    .product-content p {
-        /*font-size: 1.5rem !important;*/
-    }
-}
+
+
+
+
+
+
+
+/*@media (max-width: 575.98px) {*/
+/*    .product-content p {*/
+/*        !*font-size: 1.5rem !important;*!*/
+/*    }*/
+/*}*/
