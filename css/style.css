@@ -3,28 +3,43 @@
 h2,.topBar-menu a{
     font-family: 'EB Garamond', serif !important;
 }
+
 .topBar-menu a::before{
     background-color: mediumpurple !important;
+   top:100% !important;
 }
 .important-px{
-    height: 300px !important;
+    height: 100% !important;
+    /*background-size: cover;*/
+    /*background-position: center;*/
 }
+
 .important-px-2{
     margin-top:-80px !important;
     height: 100px !important;
     width:150px !important ;
 }
-.carousel-arrows-usual .icon{
-    top:300% !important;
+.carousel-arrows-usual {
+    top:25% !important;
+    width: 100px;
+
 }
+
 .centered{
-    top:20% !important;
+    top:40% !important;
+
 }
 .topBar-logo{
     width: 250px !important;
 }
 .icon{
-    fill:mediumpurple !important;
+    fill:rebeccapurple !important;
+}
+.icon-angle-right{
+    fill:orangered !important;
+}
+.icon-angle-left{
+    fill:orangered !important;
 }
 
 .btn-usual.btn-outline{
@@ -55,4 +70,8 @@ h2,.topBar-menu a{
 }
 .contacts-map {
     border: 0.125rem solid mediumpurple !important;
+}
+
+.about-img img{
+    height: 40rem !important;
 }

@@ -5,16 +5,19 @@
 }
 @media (max-width: 991.98px) {
 
+
 }
+
 @media (max-width: 767.98px) {
     .product-content p {
         font-size: 1.2rem !important;
     }
-
-    .product-content {
-        min-height: 500px !important;
+    .about-img img{
+        height: 20rem !important;
     }
-
+    .product-content {
+       height: 100% !important;
+    }
     .important-px-2 {
         display: none !important;
         height: 50px !important;
@@ -23,9 +26,7 @@
 
     .advantages-list {
         background-image: none !important;
-        /*height: 0px !important;*/
     }
-
 }
 
 
