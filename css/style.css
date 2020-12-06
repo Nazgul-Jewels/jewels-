@@ -8,10 +8,12 @@ h2,.topBar-menu a{
     background-color: mediumpurple !important;
    top:100% !important;
 }
-.important-px{
+
+.product-item {
+    min-height: 100% !important;
+}
+.product-img{
     height: 100% !important;
-    /*background-size: cover;*/
-    /*background-position: center;*/
 }
 
 .important-px-2{
@@ -24,10 +26,8 @@ h2,.topBar-menu a{
     width: 100px;
 
 }
-
 .centered{
     top:40% !important;
-
 }
 .topBar-logo{
     width: 250px !important;
@@ -41,7 +41,6 @@ h2,.topBar-menu a{
 .icon-angle-left{
     fill:orangered !important;
 }
-
 .btn-usual.btn-outline{
     border: 0.125rem solid mediumpurple !important;
     color: mediumpurple !important;
