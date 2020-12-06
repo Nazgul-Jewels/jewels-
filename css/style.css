@@ -75,3 +75,8 @@ h2,.topBar-menu a{
 .about-img img{
     height: 40rem !important;
 }
+
+
+.carousel-dot-usual {
+    display:none !important;
+}

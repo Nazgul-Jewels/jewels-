@@ -27,6 +27,10 @@
     .advantages-list {
         background-image: none !important;
     }
+    .btn-change-margin{
+        margin-top:100px;
+    }
+
 }
 
 
