@@ -21,11 +21,10 @@ h2,.topBar-menu a{
     height: 100px !important;
     width:150px !important ;
 }
-.carousel-arrows-usual {
-    top:25% !important;
-    width: 100px;
-
-}
+/*.carousel-arrows-usual {*/
+/*    top:25% !important;*/
+/*    width: 100px;*/
+/*}*/
 .centered{
     top:40% !important;
 }
@@ -56,7 +55,6 @@ h2,.topBar-menu a{
 
 .advantages-list{
     background-image: url(../pictures/5.png) !important;
-    /*height: 0px !important;*/
 }
 
 #SVGID_1_{
@@ -76,6 +74,17 @@ h2,.topBar-menu a{
 }
 
 
-.carousel-dot-usual {
-    display:none !important;
+.owl-carousel .owl-stage{
+    width:100% !important;
+    transition:inherit !important;
+    transform:inherit !important;
+}
+.owl-carousel.owl-drag .owl-item{
+    /*width:50% !important;*/
+}
+.carousel-arrows-usual{
+    display: none !important;
+}
+.carousel-dots-usual{
+    display: none !important;
 }

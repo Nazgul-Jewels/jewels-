@@ -16,7 +16,7 @@
         height: 20rem !important;
     }
     .product-item {
-        max-height: 700px !important;
+        /*max-height: 700px !important;*/
         height: 100% !important;
 
     }
@@ -24,9 +24,6 @@
         height: 100% !important;
     }
 
-    .product-content p{
-        flex:none !important;
-    }
     .important-px-2 {
         display: none !important;
         height: 50px !important;
@@ -39,6 +36,7 @@
     .btn-change-margin{
         margin-top:100px;
     }
+
 
 }
 
