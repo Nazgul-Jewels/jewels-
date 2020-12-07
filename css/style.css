@@ -88,3 +88,6 @@ h2,.topBar-menu a{
 .carousel-dots-usual{
     display: none !important;
 }
+.cloned{
+    display:none !important
+}
